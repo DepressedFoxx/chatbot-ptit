@@ -11,9 +11,9 @@ const Details = () => {
             <div className="border-t-2 flex flex-col space-y-4 justify-center items-center">
                 <div className="h-30 flex mt-4 space-x-4">
                     <img 
-                        src="https://qph.fs.quoracdn.net/main-thumb-pb-1114627-200-hpyevtkykxctadokzojeabstnwcxqmeu.jpeg" 
+                        src="https://slink.ptit.edu.vn/favicon.ico" 
                         alt="null"
-                        className="border rounded-[100%] h-20 w-20"
+                        className="h-20 w-20"
                     />
                     <div className="flex flex-col w-full justify-center">
                         <span className="font-bold">Our Bot</span>
